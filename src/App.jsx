@@ -57,11 +57,15 @@ function App() {
     An AI-powered financial advisor. <a href="https://x.com/IsaiahSLafleur/status/1920307531148149005" target="_blank">Learn more</a>.
   </p>
 </div>
-            <div className="bg-lime-100 p-6 rounded-md">
-              <h3>TODO: Project Title 2</h3>
-              <p>TODO: Brief project description.</p>
-              {/* TODO: Add project link/button */}
-            </div>
+<div className="bg-lime-100 p-6 rounded-md">
+  <a href="https://github.com/islafleur-explorer/cursor-news-trello" target="_blank">
+    <img src="/Thumbnail Image For News Article Automation To Trello" alt="News Article Automation to Trello workflow" className="w-full h-32 object-cover rounded-md mb-2" />
+  </a>
+  <h3 className="font-bold">News Article Automation to Trello workflow</h3>
+  <p>
+    MVP Goal: Automate the extraction of the title and date from news articles, and the creation of Trello cards with that information. <a href="https://x.com/IsaiahSLafleur/status/1907991477784830230" target="_blank">Learn more</a>.
+  </p>
+</div>
             <div className="bg-lime-100 p-6 rounded-md">
               <h3>TODO: Project Title 3</h3>
               <p>TODO: Brief project description.</p>
