@@ -48,11 +48,15 @@ function App() {
           <h2 className="text-3xl font-bold mb-8">Featured Projects</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* TODO: Map through your projects here */}
-            <div className="bg-lime-100 p-6 rounded-md">
-              <h3>TODO: Project Title 1</h3>
-              <p>TODO: Brief project description.</p>
-              {/* TODO: Add project link/button */}
-            </div>
+<div className="bg-lime-100 p-6 rounded-md">
+  <a href="https://islafleur-explorer.github.io/VS-Code---Solomon_s-Path---AI-Financial-Advisor/" target="_blank">
+    <img src="placeholder_image_url.png" alt="Solomon's Path AI Financial Advisor" className="w-full h-32 object-cover rounded-md mb-2" />
+  </a>
+  <h3>Solomon's Path AI Financial Advisor</h3>
+  <p>
+    An AI-powered financial advisor. <a href="https://x.com/IsaiahSLafleur/status/1920307531148149005" target="_blank">Learn more</a>.
+  </p>
+</div>
             <div className="bg-lime-100 p-6 rounded-md">
               <h3>TODO: Project Title 2</h3>
               <p>TODO: Brief project description.</p>
