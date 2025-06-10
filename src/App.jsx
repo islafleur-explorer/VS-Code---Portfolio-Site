@@ -52,7 +52,7 @@ function App() {
   <a href="https://islafleur-explorer.github.io/VS-Code---Solomon_s-Path---AI-Financial-Advisor/" target="_blank">
     <img src="/Logo Solomons Path ChatGPT Image May 12 2025 09_59_04 AM.png" alt="Solomon's Path AI Financial Advisor" className="w-full h-32 object-cover rounded-md mb-2" />
   </a>
-  <h3>Solomon's Path AI Financial Advisor</h3>
+  <h3 className="font-bold">Solomon's Path AI Financial Advisor</h3>
   <p>
     An AI-powered financial advisor. <a href="https://x.com/IsaiahSLafleur/status/1920307531148149005" target="_blank">Learn more</a>.
   </p>
