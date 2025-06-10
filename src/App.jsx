@@ -50,7 +50,7 @@ function App() {
             {/* TODO: Map through your projects here */}
 <div className="bg-lime-100 p-6 rounded-md">
   <a href="https://islafleur-explorer.github.io/VS-Code---Solomon_s-Path---AI-Financial-Advisor/" target="_blank">
-    <img src="placeholder_image_url.png" alt="Solomon's Path AI Financial Advisor" className="w-full h-32 object-cover rounded-md mb-2" />
+    <img src="/Logo Solomons Path ChatGPT Image May 12 2025 09_59_04 AM.png" alt="Solomon's Path AI Financial Advisor" className="w-full h-32 object-cover rounded-md mb-2" />
   </a>
   <h3>Solomon's Path AI Financial Advisor</h3>
   <p>
