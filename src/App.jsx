@@ -56,6 +56,7 @@ function App() {
   <p>
     An AI-powered financial advisor. <a href="https://x.com/IsaiahSLafleur/status/1920307531148149005" target="_blank" className="hover:underline">Learn more</a>.
   </p>
+  <a href="https://islafleur-explorer.github.io/VS-Code---Solomon_s-Path---AI-Financial-Advisor/" target="_blank" className="hover:underline block">View on GitHub</a>
 </div>
 <div className="bg-lime-100 p-6 rounded-md">
   <a href="https://github.com/islafleur-explorer/cursor-news-trello" target="_blank">
@@ -65,6 +66,7 @@ function App() {
   <p>
     MVP Goal: Automate the extraction of the title and date from news articles, and the creation of Trello cards with that information. <a href="https://x.com/IsaiahSLafleur/status/1907991477784830230" target="_blank" className="hover:underline">Learn more</a>.
   </p>
+  <a href="https://github.com/islafleur-explorer/cursor-news-trello" target="_blank" className="hover:underline block">View on GitHub</a>
 </div>
 <div className="bg-lime-100 p-6 rounded-md">
   <a href="https://github.com/islafleur-explorer/Claude---screen-recorder-app-with-video-audio-settings-and-live-timer" target="_blank">
@@ -74,6 +76,7 @@ function App() {
   <p>
     At Pursuit we had the challenge to build a screen recording app in less than 2 hours. <a href="https://x.com/IsaiahSLafleur/status/1911180955437728085" target="_blank" className="hover:underline">Learn more</a>.
   </p>
+  <a href="https://github.com/islafleur-explorer/Claude---screen-recorder-app-with-video-audio-settings-and-live-timer" target="_blank" className="hover:underline block">View on GitHub</a>
 </div>
           </div>
         </section>
