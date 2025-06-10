@@ -66,11 +66,15 @@ function App() {
     MVP Goal: Automate the extraction of the title and date from news articles, and the creation of Trello cards with that information. <a href="https://x.com/IsaiahSLafleur/status/1907991477784830230" target="_blank">Learn more</a>.
   </p>
 </div>
-            <div className="bg-lime-100 p-6 rounded-md">
-              <h3>TODO: Project Title 3</h3>
-              <p>TODO: Brief project description.</p>
-              {/* TODO: Add project link/button */}
-            </div>
+<div className="bg-lime-100 p-6 rounded-md">
+  <a href="https://github.com/islafleur-explorer/Claude---screen-recorder-app-with-video-audio-settings-and-live-timer" target="_blank">
+    <img src="/Thumbnail Image For Screen Recording App.jpg" alt="Screen Recorder App With Video/Audio Settings And Live Timer" className="w-full h-32 object-cover rounded-md mb-2" />
+  </a>
+  <h3 className="font-bold">Screen Recorder App With Video/Audio Settings And Live Timer</h3>
+  <p>
+    At Pursuit we had the challenge to build a screen recording app in less than 2 hours. <a href="https://x.com/IsaiahSLafleur/status/1911180955437728085" target="_blank">Learn more</a>.
+  </p>
+</div>
           </div>
         </section>
 
