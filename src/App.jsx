@@ -82,10 +82,28 @@ function App() {
         </section>
 
         <section id="about" className="py-16 text-dark">
-          <h2 className="text-3xl font-bold mb-8">My Journey</h2>
-          {/* TODO: Implement your interactive timeline here */}
-          <div className="bg-teal-100 p-6 rounded-md">TODO: About Me Timeline</div>
-        </section>
+  <h2 className="text-3xl font-bold mb-8">My Journey</h2>
+  <div className="timeline">
+    <div className="timeline-item">
+      <h3 className="font-bold">Solomon's Path AI Financial Advisor</h3>
+      <p>
+        This project was born out of a desire to create an accessible and intelligent financial advisor. The journey involved leveraging AI to provide personalized financial guidance, overcoming challenges in data integration and algorithm optimization. The key takeaway was the power of AI to democratize financial knowledge.
+      </p>
+    </div>
+    <div className="timeline-item">
+      <h3 className="font-bold">News Article Automation to Trello workflow</h3>
+      <p>
+        This project focused on automating the process of extracting information from news articles and creating Trello cards. The development process involved web scraping, data parsing, and Trello API integration. The main challenge was handling the variability in news article formats. The key learning was the importance of robust error handling and adaptability in automation workflows.
+      </p>
+    </div>
+    <div className="timeline-item">
+      <h3 className="font-bold">Screen Recorder App With Video/Audio Settings And Live Timer</h3>
+      <p>
+        This project was a rapid development challenge to build a screen recording app in under 2 hours. The experience highlighted the importance of prioritizing features, efficient coding, and effective time management. The key takeaway was the ability to deliver a functional solution under extreme constraints.
+      </p>
+    </div>
+  </div>
+</section>
 
         <section id="contact" className="py-16 text-neutral bg-secondary">
           <h2 className="text-3xl font-bold mb-8">Let's Connect</h2>

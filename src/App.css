@@ -1,1 +1,5 @@
 /* We'll put more specific styles here */
+
+.timeline-item {
+  margin-bottom: 20px;
+}
