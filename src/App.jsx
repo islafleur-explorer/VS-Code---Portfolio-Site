@@ -59,7 +59,7 @@ function App() {
 </div>
 <div className="bg-lime-100 p-6 rounded-md">
   <a href="https://github.com/islafleur-explorer/cursor-news-trello" target="_blank">
-    <img src="/Thumbnail Image For News Article Automation To Trello" alt="News Article Automation to Trello workflow" className="w-full h-32 object-cover rounded-md mb-2" />
+    <img src="/Thumbnail Image For News Article Automation To Trello.png" alt="News Article Automation to Trello workflow" className="w-full h-32 object-cover rounded-md mb-2" />
   </a>
   <h3 className="font-bold">News Article Automation to Trello workflow</h3>
   <p>
