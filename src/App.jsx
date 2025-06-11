@@ -108,7 +108,15 @@ function App() {
         <section id="contact" className="py-16 text-neutral bg-secondary">
           <h2 className="text-3xl font-bold mb-8">Let's Connect</h2>
           {/* TODO: Add your contact form or information here */}
-          <div className="bg-accent-100 p-6 rounded-md">TODO: Contact Form/Info</div>
+          <div className="bg-accent-100 p-6 rounded-md text-lg">
+            <p>
+              Connect with me on:
+              <ul className="list-none pl-0">
+                <li><a href="https://linkedin.com/in/isaiah-lafleur-91ba5a28" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a></li>
+                <li><a href="https://x.com/IsaiahSLafleur" target="_blank" rel="noopener noreferrer" className="hover:underline">Twitter</a></li>
+              </ul>
+            </p>
+          </div>
         </section>
       </main>
 
