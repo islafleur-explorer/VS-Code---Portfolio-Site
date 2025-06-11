@@ -105,7 +105,7 @@ function App() {
 </div>
 </section>
 
-        <section id="contact" className="py-16 text-neutral bg-secondary">
+        <section id="contact" className="py-16 text-primary bg-secondary">
           <h2 className="text-3xl font-bold mb-8">Let's Connect</h2>
           {/* TODO: Add your contact form or information here */}
           <div className="bg-accent-100 p-6 rounded-md text-lg">
