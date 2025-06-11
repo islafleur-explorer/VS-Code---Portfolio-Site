@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         primary: '#C70039', // Deep Magenta
-        secondary: '#F3722C', // Fiery Orange
+        secondary: '#F8A878', // Pale Orange
         accent: '#F8F32B',   // Electric Yellow
         teal: '#43AA8B',     // Teal Accent
         lime: '#90BE6D',     // Lime Green
